@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904520478057-5kr0qrj2al02ds99b6l7c670jfkj7gba.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904520478057-5kr0qrj2al02ds99b6l7c670jfkj7gba</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5HSqdjaA5CZBteSxNJQosa-68-LuLzyo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904520478057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ilker.SozlukUygulamasi</string>
+	<key>PROJECT_ID</key>
+	<string>sozlukuygulamasi-8d165</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sozlukuygulamasi-8d165.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904520478057:ios:9fe8284a85b9a8f448a1f8</string>
+</dict>
+</plist>
